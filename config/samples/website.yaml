@@ -1,4 +1,4 @@
-apiVersion: web.valon.dev/v1
+apiVersion: website.vjanz.dev/v1
 kind: Website
 metadata:
   name: my-website
