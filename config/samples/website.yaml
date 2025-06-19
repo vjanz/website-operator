@@ -1,0 +1,8 @@
+apiVersion: web.valon.dev/v1
+kind: Website
+metadata:
+  name: my-website
+  namespace: website-demo
+spec:
+  domain: my-website.local
+  enableTLS: false
