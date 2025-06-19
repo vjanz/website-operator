@@ -1,0 +1,8 @@
+apiVersion: website.vjanz.dev/v1
+kind: Website
+metadata:
+  name: my-website
+  namespace: default
+spec:
+  domain: my-website.local
+  enableTLS: false
